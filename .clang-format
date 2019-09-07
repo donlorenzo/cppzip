@@ -1,0 +1,6 @@
+﻿---
+AllowShortFunctionsOnASingleLine: None
+IncludeBlocks: Regroup
+UseTab: Never
+
+...
